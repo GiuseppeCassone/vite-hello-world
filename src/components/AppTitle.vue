@@ -9,4 +9,8 @@ export default {
 </template>
 
 <style>
+    h1{
+        text-align: center;
+        font-size: 40px;
+    }
 </style>
